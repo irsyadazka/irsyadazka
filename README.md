@@ -19,11 +19,13 @@ Hi! My name is Azka Syauqy Irsyad, you can call me <i>Azka</i>. I'm a Undergradu
   
 ### Languages 💻
 
-- Basic Python
-- Basic C, C++, C#
-- Basic Java
+- Python
+- C, C++
+- Basic C#
+- Java
 - HTML and CSS
-- A little bit of JavaScript
+- JavaScript
+- ReactJS
 
 <br />
 <div>
