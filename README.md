@@ -17,15 +17,11 @@ Here are some ideas to get you started:
 
 Hi! My name is Azka Syauqy Irsyad, you can call me <i>Azka</i>. I'm a Undergraduate Student at Bandung Institute of Technology, majoring in Informatics. I love learning things related to programming, especially in Web Development and Mobile Development. Looking forward to collaborating with anyone!
   
-### Languages 💻
+### Skills 💻
 
-- Python
-- C, C++
-- Basic C#
-- Java
-- HTML and CSS
-- JavaScript
-- ReactJS
+Programming Languages: Python, Haskell, C, C++, Java, JavaScript, TypeScript, Dart, PHP
+Framework: React.js, Node.js, Express.js, Next.js, Nest.js 
+Other: MySQL, PostgreSQL, Docker
 
 <br />
 <div>
