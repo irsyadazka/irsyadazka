@@ -20,7 +20,9 @@ Hi! My name is Azka Syauqy Irsyad, you can call me <i>Azka</i>. I'm a Undergradu
 ### Skills 💻
 
 Programming Languages: Python, Haskell, C, C++, Java, JavaScript, TypeScript, Dart, PHP
+
 Framework: React.js, Node.js, Express.js, Next.js, Nest.js 
+
 Other: MySQL, PostgreSQL, Docker
 
 <br />
